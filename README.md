@@ -36,6 +36,7 @@ http://127.0.0.1:5000
 
 # Folder Structure: -
 The project files are organized as follows:
+
 <img width="518" alt="image" src="https://github.com/user-attachments/assets/0e8e40ba-892a-4687-ab34-ac67f1e925fd">
 
 
