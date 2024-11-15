@@ -5,7 +5,6 @@ The Shopping Assistance Chatbot is designed to provide users with an interactive
 
 1.	Clone the Repository:
 git clone <https://github.com/F-saiyed/Shopping_Assistant.git>
-cd <repository-name>
 
 2.	Create a Virtual Environment:
 ** For Windows**
