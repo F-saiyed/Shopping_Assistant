@@ -1,0 +1,4 @@
+Flask==2.0.3              # Use Flask 2.0.3 instead of a newer version
+Werkzeug==2.0.3           # Use Werkzeug 2.0.3, compatible with Flask 2.0.3
+openai==0.27.0            # OpenAI library for GPT-4 integration
+python-dotenv==0.21.0     # For loading environment variables from a .env file
